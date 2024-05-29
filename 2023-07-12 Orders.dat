@@ -1,0 +1,66 @@
+
+Order 1:
+
+Customer Name: Nurin
+Phone Number: 0173669682
+State: KL
+
+Quantity ordered: 1
+Code of selected dessert: CC002
+Shape: Rectangle
+Weight: 1.5 g
+Radius: 0.1 cm
+
+Total: RM 75.50
+Order 2:
+
+Customer Name: Shazwana
+Phone Number: 0128896655
+State: Seremban
+
+Quantity ordered: 2
+Code of selected dessert: PP003
+Quantity per box: 4
+Flavour: Chocolate
+AddCheese: true
+
+Total: RM 53.00
+Order 3:
+
+Customer Name: Aidiel
+Phone Number: 0128896655
+State: Terengganu
+
+Quantity ordered: 2
+Code of selected dessert: CC002
+Shape: Triangle
+Weight: 1.0 g
+Radius: 0.1 cm
+
+Total: RM 101.00
+Order 4:
+
+Customer Name: Nazhan
+Phone Number: 0118842269
+State: Pahang
+
+Quantity ordered: 2
+Code of selected dessert: PP006
+Quantity per box: 4
+Flavour: Strawberry & Oreo
+AddCheese: true
+
+Total: RM 53.00
+Order 5:
+
+Customer Name: Izzati
+Phone Number: 0169902244
+State: Johor
+
+Quantity ordered: 2
+Code of selected dessert: PP003
+Quantity per box: 6
+Flavour: Oreo and Chocolate
+AddCheese: false
+
+Total: RM 72.00

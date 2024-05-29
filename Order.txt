@@ -1,0 +1,4 @@
+Nurin*0173669682*KL*CC002*1*Rectangle*1.5*0.1
+Shazwana*0128896655*Seremban*PP003*2*4*Chocolate*true
+Aidiel*0128896655*Terengganu*CC002*2*Triangle*1.0*0.1
+Nazhan*0118842269*Pahang*PP006*2*4*Strawberry & Oreo*true

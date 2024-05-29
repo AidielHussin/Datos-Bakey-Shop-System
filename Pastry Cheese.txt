@@ -1,0 +1,27 @@
+Details Order Who Add-on Cheese:
+
+Order 2:
+
+Customer Name: Shazwana
+Phone Number: 0128896655
+Address: Seremban
+
+Quantity ordered: 2
+Code of selected dessert: PP003
+Quantity per box: 4
+Flavour: Chocolate
+AddCheese: true
+Total: RM 53.00
+
+Order 4:
+
+Customer Name: Nazhan
+Phone Number: 0118842269
+Address: Pahang
+
+Quantity ordered: 2
+Code of selected dessert: PP006
+Quantity per box: 4
+Flavour: Strawberry & Oreo
+AddCheese: true
+Total: RM 53.00

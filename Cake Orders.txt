@@ -1,0 +1,27 @@
+Details of Cake orders:
+
+Order 1:
+
+Customer Name: Nurin
+Phone Number: 0173669682
+Address: KL
+
+Quantity ordered: 1
+Code of selected dessert: CC002
+Shape: Rectangle
+Weight: 1.5 g
+Radius: 0.1 cm
+Total: RM 75.50
+
+Order 3:
+
+Customer Name: Aidiel
+Phone Number: 0128896655
+Address: Terengganu
+
+Quantity ordered: 2
+Code of selected dessert: CC002
+Shape: Triangle
+Weight: 1.0 g
+Radius: 0.1 cm
+Total: RM 101.00
